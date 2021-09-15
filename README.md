@@ -17,3 +17,8 @@ Aprender a tratar erros e exceções
 
 ![image](https://user-images.githubusercontent.com/51761169/133460955-c37f0048-9ff9-42b4-b5e3-8bd2ca6b96af.png)
 
+# O que foi aprendido?
+ - Try/catch e finally
+ - throw -> Lança uma excessão
+ - throws -> passa o tratamento da exceção pra quem chamar o método
+ - Criação de exceptions personalizada
